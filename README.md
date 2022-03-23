@@ -7,3 +7,5 @@ Champs interets : Animation, conception graphique, programmation, guitare et bea
 
 Perspective de carriere : 
 Freelance Full stack, motion design et graphisme.
+
+Courriel : tommyfavreau@gmail.com 
